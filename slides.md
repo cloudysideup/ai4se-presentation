@@ -24,6 +24,124 @@ mdc: true
 duration: 35min
 ---
 
+
+# Thesis Statement
+
+---
+
+## transition: fade-out
+
+# Gathering Software Requirements
+
+- Background
+  1. Functional (what)
+  2. Non functional (how)
+  3. domain (standards)
+
+- Solution
+- Tie to source
+  1. Pezze, p10, 2.1.3
+  2. Pezze ref 92
+  3. Stutz ref 20
+
+---
+
+## transition: fade-out
+
+# Software Design and Architecture
+
+- Background
+  1. how you organize code
+  2. create functionality boundaries in your system
+  3. and approach development
+- Solution
+- Tie to source
+  1. Pezze p10, 2.1.3
+  2. Pezze ref 25 (models), 190
+  3. Lo ref 97
+
+---
+
+## transition: fade-out
+
+# Source Code Generation (Programming)
+
+- Background – writing instructions that a computer can understand and execute
+- Solution
+  1. From creator to curator (Pezze, p.15)
+  2. collaborator/pair programming
+  3. Automatic programming (Pezze, p26)
+  4. Code generation
+  - Completion of code
+  - Refactoring
+- Tie to source
+  1. Pezze p10 2.1.3
+
+---
+
+## transition: fade-out
+
+# Software Testing
+
+- Background
+  1. ensure software functions correctly
+  2. finding and documenting bugs and other issues before the product is released
+
+- Solution
+  1. QA
+  2. vuln detection
+  3. test case
+  4. e2e
+  5. unit
+
+- Tie to source
+  1. Pezze p10-11 2.1.3
+  2. Lo ref 98
+
+---
+
+## transition: fade-out
+
+# IT Operations
+
+- Background
+  1. the management and maintenance of IT infrastructure
+  2. ensuring systems run reliably and securely after the software is built
+
+- Solution (Pezze, p31)
+  1. patching, other security
+  2. Lo ref 101, 118-120
+
+- Tie to source
+  1. Pezze p11 2.1.3
+
+---
+
+## transition: fade-out
+
+# Program Analysis
+
+- Background
+  1. SCA/DAST/SAST
+- Solution
+  1. Agentic AI invocation of tools (Pezze, p27)
+- Tie to Source
+  1. Lo ref 47,107-111,121
+
+---
+
+## transition: fade-out
+
+# Project Planning and oversight
+
+- Background
+  1. frameworks to manage the ideation, development, testing, security and delivery of software code
+- Solutions
+- Tie to source
+  1. Lo ref 150-151
+
+
+---
 # Welcome to Slidev
 
 Presentation slides for developers
