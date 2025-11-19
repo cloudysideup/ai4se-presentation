@@ -51,6 +51,8 @@ duration: 35min
   coaching within the domains and common processes of software engineering.
 
 ---
+layout: cover
+---
 
 # Gathering Software Requirements
 
@@ -74,7 +76,8 @@ duration: 35min
   3. Stutz ref 20
 
 ---
-
+layout: cover
+---
 # Software Design and Architecture
 
 ---
@@ -97,7 +100,8 @@ duration: 35min
   3. Lo ref 97
 
 ---
-
+layout: cover
+---
 # Source Code Generation (Programming)
 
 ---
@@ -116,7 +120,8 @@ duration: 35min
   2. Pezze p15
 
 ---
-
+layout: cover
+---
 # Software Testing
 
 ---
@@ -141,7 +146,8 @@ duration: 35min
   2. Lo ref 98
 
 ---
-
+layout: cover
+---
 # IT Operations
 
 ---
@@ -164,7 +170,8 @@ duration: 35min
   1. Pezze p11 2.1.3
 
 ---
-
+layout: cover
+---
 # Program Analysis
 
 ---
@@ -184,7 +191,8 @@ duration: 35min
   1. Lo ref 47,107-111,121
 
 ---
-
+layout: cover
+---
 # Project Planning and oversight
 
 ---
@@ -203,7 +211,8 @@ duration: 35min
   1. Lo ref 150-151
 
 ---
-
+layout: cover
+---
 # Welcome to Slidev
 
 Presentation slides for developers
@@ -696,6 +705,9 @@ Learn more: [Mermaid Diagrams](https://sli.dev/features/mermaid) and [PlantUML D
 dragPos:
 square: -80,0,0,0
 
+---
+dragPos:
+  square: -80,0,0,0
 ---
 
 # Draggable Elements
