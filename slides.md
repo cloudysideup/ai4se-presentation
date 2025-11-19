@@ -32,18 +32,40 @@ duration: 35min
 
 ---
 
+# Intro
+
+- Creating business logic written in a programming language along with the
+  tests to verify that code and the process of how these items are written have proven to be a
+  more difficult task.
+- As AI models have become more specialised and geared towards code
+  creation, practitioners have embraced using it in limited purposes and researchers are
+  evaluating what role artificial intelligence will have in multiple software engineering domains
+  over the next several years.
+
+---
+
 # Thesis Statement
 
-- augmentation or learning aid across software engineering lifecycle)
+- Based on their research and how practitioners are currently using
+  it, artificial intelligence will be used by engineers, leads and managers for augmentation and
+  coaching within the domains and common processes of software engineering.
 
 ---
 
 # Gathering Software Requirements
 
+---
+
+# What are we gathering?
+
 - Background
   1. Functional (what)
   2. Non functional (how)
   3. domain (standards)
+
+---
+
+# How will AI help?
 
 - Solution
 - Tie to source
@@ -55,10 +77,19 @@ duration: 35min
 
 # Software Design and Architecture
 
+---
+
+# How are we designing?
+
 - Background
   1. how you organize code
   2. create functionality boundaries in your system
   3. and approach development
+
+---
+
+# What will Software design and Architecture look like?
+
 - Solution
 - Tie to source
   1. Pezze p10, 2.1.3
@@ -69,31 +100,41 @@ duration: 35min
 
 # Source Code Generation (Programming)
 
+---
+
+# What does Programming look like?
+
 - Background – writing instructions that a computer can understand and execute
-- Solution
-  1. From creator to curator (Pezze, p.15)
-  2. collaborator/pair programming
-  3. Automatic programming (Pezze, p26)
-  4. Code generation
-  - Completion of code
-  - Refactoring
+
+---
+
+# From Creator to Curator
+
+- Solution 2. collaborator/pair programming 3. Automatic programming (Pezze, p26) 4. Completion of code 5. Refactoring
 - Tie to source
   1. Pezze p10 2.1.3
+  2. Pezze p15
 
 ---
 
 # Software Testing
 
-- Background
-  1. ensure software functions correctly
-  2. finding and documenting bugs and other issues before the product is released
+---
 
-- Solution
-  1. QA
-  2. vuln detection
-  3. test case
-  4. e2e
-  5. unit
+# How do we test now?
+
+1. ensure software functions correctly
+2. finding and documenting bugs and other issues before the product is released
+
+---
+
+# What can AI do for Testing?
+
+1. QA
+2. vuln detection
+3. test case
+4. e2e
+5. unit
 
 - Tie to source
   1. Pezze p10-11 2.1.3
@@ -103,9 +144,17 @@ duration: 35min
 
 # IT Operations
 
+---
+
+# What are IT Operations?
+
 - Background
   1. the management and maintenance of IT infrastructure
   2. ensuring systems run reliably and securely after the software is built
+
+---
+
+# What will IT Operations look like?
 
 - Solution (Pezze, p31)
   1. patching, other security
@@ -118,8 +167,17 @@ duration: 35min
 
 # Program Analysis
 
+---
+
+# What is Program Analysis?
+
 - Background
   1. SCA/DAST/SAST
+
+---
+
+# How will AI help?
+
 - Solution
   1. Agentic AI invocation of tools (Pezze, p27)
 - Tie to Source
@@ -129,8 +187,17 @@ duration: 35min
 
 # Project Planning and oversight
 
+---
+
+# What is Project Planning and oversight?
+
 - Background
   1. frameworks to manage the ideation, development, testing, security and delivery of software code
+
+---
+
+# How will AI help?
+
 - Solutions
 - Tie to source
   1. Lo ref 150-151
@@ -155,8 +222,6 @@ The last comment block of each slide will be treated as slide notes. It will be 
 -->
 
 ---
-
-## transition: fade-out
 
 # What is Slidev?
 
@@ -197,11 +262,6 @@ Here is another comment.
 
 ---
 
-transition: slide-up
-level: 2
-
----
-
 # Navigation
 
 Hover on the bottom-left corner to see the navigation's controls panel, [learn more](https://sli.dev/guide/ui#navigation-bar)
@@ -228,11 +288,6 @@ Hover on the bottom-left corner to see the navigation's controls panel, [learn m
 
 ---
 
-layout: two-cols
-layoutClass: gap-16
-
----
-
 # Table of contents
 
 You can use the `Toc` component to generate a table of contents for your slides:
@@ -246,11 +301,6 @@ The title will be inferred from your slide content, or you can override it with 
 ::right::
 
 <Toc text-sm minDepth="1" maxDepth="2" />
-
----
-
-layout: image-right
-image: <https://cover.sli.dev>
 
 ---
 
@@ -304,8 +354,6 @@ Notes can also sync with clicks
 -->
 
 ---
-
-## level: 2
 
 # Shiki Magic Move
 
@@ -420,8 +468,6 @@ Also, HTML elements are valid:
 -->
 
 ---
-
-## class: px-20
 
 # Themes
 
@@ -569,30 +615,6 @@ const final = {
 
 ---
 
-# $\LaTeX$
-
-$\LaTeX$ is supported out-of-box. Powered by [$\KaTeX$](https://katex.org/).
-
-<div h-3 />
-
-Inline $\sqrt{3x-1}+(1+x)^2$
-
-Block
-
-$$
-{1|3|all}
-\begin{aligned}
-\nabla \cdot \vec{E} &= \frac{\rho}{\varepsilon_0} \\
-\nabla \cdot \vec{B} &= 0 \\
-\nabla \times \vec{E} &= -\frac{\partial\vec{B}}{\partial t} \\
-\nabla \times \vec{B} &= \mu_0\vec{J} + \mu_0\varepsilon_0\frac{\partial\vec{E}}{\partial t}
-\end{aligned}
-$$
-
-[Learn more](https://sli.dev/features/latex)
-
----
-
 # Diagrams
 
 You can create diagrams / graphs from textual descriptions, directly in your Markdown.
@@ -671,18 +693,9 @@ Learn more: [Mermaid Diagrams](https://sli.dev/features/mermaid) and [PlantUML D
 
 ---
 
-foo: bar
 dragPos:
-square: 691,32,167,\_,-16
+square: -80,0,0,0
 
----
-
-dragPos:
-square: -2,0,0,0
-
----
-dragPos:
-  square: -2,0,0,0
 ---
 
 # Draggable Elements
@@ -723,50 +736,6 @@ Double-click on the draggable elements to edit their positions.
 ```
 
 <v-drag-arrow pos="67,452,253,46" two-way op70 />
-
----
-
-src: ./pages/imported-slides.md
-hide: false
-
----
-
-
----
-
-# Monaco Editor
-
-Slidev provides built-in Monaco Editor support.
-
-Add `{monaco}` to the code block to turn it into an editor:
-
-```ts {monaco}
-import { ref } from "vue";
-import { emptyArray } from "./external";
-
-const arr = ref(emptyArray(10));
-```
-
-Use `{monaco-run}` to create an editor that can execute the code directly in the slide:
-
-```ts {monaco-run}
-import { version } from "vue";
-import { emptyArray, sayHello } from "./external";
-
-sayHello();
-console.log(`vue ${version}`);
-console.log(
-  emptyArray<number>(10).reduce(
-    (fib) => [...fib, fib.at(-1)! + fib.at(-2)!],
-    [1, 1],
-  ),
-);
-```
-
----
-
-layout: center
-class: text-center
 
 ---
 
