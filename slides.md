@@ -58,25 +58,57 @@ layout: cover
 
 ---
 
-# What are we gathering?
+# What Do We Require?
 
-- Background
-  1. Functional (what)
-  2. Non functional (how)
-  3. domain (standards)
+- Functional Requirements
+  - What the software needs to do
+
+- Non-Functional Requirements
+  - How the software performs a task
+
+- Domain Requirements
+  - Rules or standards
+  - specific to domain or industry the software operates in
 
 ---
 
 # How will AI help?
 
-- Solution
-- Tie to source
+- Parse Functional, Non-Functional and Domain Requirements
+- Recommend design decisions based on requirements
+- Sources
   1. Pezze, p10, 2.1.3
   2. Pezze ref 92
   3. Stutz ref 20
 
 ---
 layout: cover
+image: cover.sli.dev
+---
+# Project Planning and oversight
+
+---
+
+# Understanding The Work
+
+- frameworks manage:
+  - ideation
+  - development
+  - testing
+  - security
+  - delivery
+
+---
+
+# How will AI help?
+
+- Solutions
+- Tie to source
+  1. Lo ref 150-151
+
+---
+layout: cover
+image: https://cover.sli.dev
 ---
 # Software Design and Architecture
 
@@ -101,6 +133,7 @@ layout: cover
 
 ---
 layout: cover
+image: https://cover.sli.dev
 ---
 # Source Code Generation (Programming)
 
@@ -121,6 +154,7 @@ layout: cover
 
 ---
 layout: cover
+image: https://cover.sli.dev
 ---
 # Software Testing
 
@@ -147,6 +181,7 @@ layout: cover
 
 ---
 layout: cover
+image: https://cover.sli.dev
 ---
 # IT Operations
 
@@ -171,6 +206,7 @@ layout: cover
 
 ---
 layout: cover
+image: https://cover.sli.dev
 ---
 # Program Analysis
 
@@ -189,24 +225,4 @@ layout: cover
   1. Agentic AI invocation of tools (Pezze, p27)
 - Tie to Source
   1. Lo ref 47,107-111,121
-
----
-layout: cover
----
-# Project Planning and oversight
-
----
-
-# What is Project Planning and oversight?
-
-- Background
-  1. frameworks to manage the ideation, development, testing, security and delivery of software code
-
----
-
-# How will AI help?
-
-- Solutions
-- Tie to source
-  1. Lo ref 150-151
 
