@@ -114,7 +114,7 @@ created,
   would augment and accelerate project management and 
   allow software development teams to think holistically about their projects
 
-- Tie to source
+- Sources
   1. Lo ref 150-151
 
 ---
@@ -144,7 +144,7 @@ interface detection, traceability, validation” (M. Pezze et al, p10).
 - Once requirements are
 translated into blueprint of system and project design, code can be created.
 
-- Tie to source
+- Sources
   1. Pezze p10, 2.1.3
   2. Pezze ref 25 (models), 190
   3. Lo ref 97
@@ -159,16 +159,22 @@ image: https://cover.sli.dev
 
 # What does Programming look like?
 
-- Background – writing instructions that a computer can understand and execute
+- writing instructions that a computer can understand and execute
+- software developer as creator
 
 ---
 
-# From Creator to Curator
+# Software Developer as Curator
 
-- Solution 2. collaborator/pair programming 3. Automatic programming (Pezze, p26) 4. Completion of code 5. Refactoring
-- Tie to source
+- Increasing impact of work
+- collaborator/pair programming
+- Automatic programming 
+- Completion of code
+- Refactoring
+- Sources
   1. Pezze p10 2.1.3
   2. Pezze p15
+  3. Pezze p26
 
 ---
 layout: cover
@@ -181,19 +187,21 @@ image: https://cover.sli.dev
 # How do we test now?
 
 1. ensure software functions correctly
+  - write the code then write the test code
 2. finding and documenting bugs and other issues before the product is released
 
 ---
 
 # What can AI do for Testing?
 
-1. QA
-2. vuln detection
-3. test case
-4. e2e
-5. unit
+- draft the test code while drafting the system code 
+  - unit tests
+  - integration tests
+  - e2e tests
+- vulnerability detection
+- draft test cases and test suites
 
-- Tie to source
+- Sources
   1. Pezze p10-11 2.1.3
   2. Lo ref 98
 
@@ -213,14 +221,15 @@ image: https://cover.sli.dev
 
 ---
 
-# What will IT Operations look like?
+# Pairing for Patching
 
-- Solution (Pezze, p31)
-  1. patching, other security
-  2. Lo ref 101, 118-120
+- Partner in maintenance of systems that support systems
+  1. security
 
-- Tie to source
+- Sources
   1. Pezze p11 2.1.3
+  2. Pezze p31
+  3. Lo ref 101, 118-120
 
 ---
 layout: cover
@@ -232,15 +241,28 @@ image: https://cover.sli.dev
 
 # What is Program Analysis?
 
-- Background
-  1. SCA/DAST/SAST
+- Static Code Analysis
+- Static Application Security Testing
+- Dynamic Application Security Testing
 
 ---
 
-# How will AI help?
+# Integration of Analysis into Process
 
-- Solution
-  1. Agentic AI invocation of tools (Pezze, p27)
-- Tie to Source
+- Agentic AI invocation of tools
+- Sources
+  1. Pezze, p27
   1. Lo ref 47,107-111,121
 
+---
+layout: cover
+image: https://cover.sli.dev
+---
+# References
+
+- Pezze et al list
+- Pezze references
+- Lo
+- Lo references
+- Stutz
+- Stutz references
