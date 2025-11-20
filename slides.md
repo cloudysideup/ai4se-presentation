@@ -102,7 +102,18 @@ image: cover.sli.dev
 
 # How will AI help?
 
-- Solutions
+- create the content for
+  - ideation
+  - stories for developer work
+  - testing. 
+  - “AI4SE solutions can transfer information and insights from one micro-task to
+others” (Lo, p11). 
+  - insights integrated to create a roadmap for a project. 
+  While project managers and technical leads would need to verify what is
+created, 
+  would augment and accelerate project management and 
+  allow software development teams to think holistically about their projects
+
 - Tie to source
   1. Lo ref 150-151
 
@@ -114,18 +125,25 @@ image: https://cover.sli.dev
 
 ---
 
-# How are we designing?
+# Organizing Code and Development
 
-- Background
-  1. how you organize code
-  2. create functionality boundaries in your system
-  3. and approach development
+- create functionality boundaries in your system
+- requirements gathered translated into
+  - system structure
+  - components
+  - integrations
 
 ---
 
 # What will Software design and Architecture look like?
 
-- Solution
+
+- validating the system design pattern artificial intelligence identifies in the requirements.
+- “deep learning techniques” identified by research...[focused] on...design pattern identification, user
+interface detection, traceability, validation” (M. Pezze et al, p10).
+- Once requirements are
+translated into blueprint of system and project design, code can be created.
+
 - Tie to source
   1. Pezze p10, 2.1.3
   2. Pezze ref 25 (models), 190
