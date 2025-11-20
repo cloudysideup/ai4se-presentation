@@ -271,6 +271,7 @@ Burgueño, Lola, et al. "Automation in Model-Driven Engineering: A look back, an
 
 Khayashi, Fatemeh, et al. "Deep learning methods for software requirement classification: A performance study on the pure dataset." arXiv preprint arXiv:2211.05286 (2022).
 
+---
 Liu, Yue, et al. "Refining chatgpt-generated code: Characterizing and mitigating code quality issues." ACM Transactions on Software Engineering and Methodology 33.5 (2024): 1-26.
 
 Lo, David. "Trustworthy and Synergistic Artificial Intelligence for Software Engineering: Vision
@@ -279,6 +280,8 @@ and Roadmaps. CoRR abs/2309.04142 (2023)." arXiv preprint arXiv:2309.04142 10 (2
 Niu, Changan, et al. "Crosscodebench: Benchmarking cross-task generalization of source code models." 2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE). IEEE, 2023.
 
 Peng, Yun, et al. "Generative type inference for python." 2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE). IEEE, 2023.
+
+---
 
 Pezzè, Mauro, et al. "A 2030 Roadmap for Software Engineering." ACM Transactions on
 Software Engineering and Methodology 34.5 (2025): 1-55.
