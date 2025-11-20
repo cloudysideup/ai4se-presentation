@@ -115,7 +115,8 @@ created,
   allow software development teams to think holistically about their projects
 
 - Sources
-  1. Lo ref 150-151
+  1. Lo ref 151
+  2. Lo ref 150?
 
 ---
 layout: cover
@@ -203,7 +204,8 @@ image: https://cover.sli.dev
 
 - Sources
   1. Pezze p10-11 2.1.3
-  2. Lo ref 98
+  2. Lo ref 98?
+  3. Lo ref 111
 
 ---
 layout: cover
@@ -259,10 +261,33 @@ layout: cover
 image: https://cover.sli.dev
 ---
 # References
+---
 
-- Pezze et al list
-- Pezze references
-- Lo
-- Lo references
-- Stutz
-- Stutz references
+Ahmad, Aakash, et al. "Towards human-bot collaborative software architecting with chatgpt." Proceedings of the 27th international conference on evaluation and assessment in software engineering. 2023.
+
+Arora, Chetan, John Grundy, and Mohamed Abdelrazek. "Advancing requirements engineering through generative ai: Assessing the role of llms." Generative AI for Effective Software Development. Cham: Springer Nature Switzerland, 2024. 129-148.
+
+Burgueño, Lola, et al. "Automation in Model-Driven Engineering: A look back, and ahead." ACM Transactions on Software Engineering and Methodology 34.5 (2025): 1-25.
+
+Khayashi, Fatemeh, et al. "Deep learning methods for software requirement classification: A performance study on the pure dataset." arXiv preprint arXiv:2211.05286 (2022).
+
+Liu, Yue, et al. "Refining chatgpt-generated code: Characterizing and mitigating code quality issues." ACM Transactions on Software Engineering and Methodology 33.5 (2024): 1-26.
+
+Lo, David. "Trustworthy and Synergistic Artificial Intelligence for Software Engineering: Vision
+and Roadmaps. CoRR abs/2309.04142 (2023)." arXiv preprint arXiv:2309.04142 10 (2023).
+
+Niu, Changan, et al. "Crosscodebench: Benchmarking cross-task generalization of source code models." 2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE). IEEE, 2023.
+
+Peng, Yun, et al. "Generative type inference for python." 2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE). IEEE, 2023.
+
+Pezzè, Mauro, et al. "A 2030 Roadmap for Software Engineering." ACM Transactions on
+Software Engineering and Methodology 34.5 (2025): 1-55.
+
+Roziere, Baptiste, et al. "Leveraging automated unit tests for unsupervised code translation." arXiv preprint arXiv:2110.06773 (2021).
+
+Stutz, Kevin, Kurt Sandkuhl, and Michael Möhring. "Empirical Insights into the Usage of
+Generative AI in Software Engineering." International Conference on Business Informatics
+Research. Cham: Springer Nature Switzerland, 2025.
+
+Thaller, Hannes, Lukas Linsbauer, and Alexander Egyed. "Feature maps: A comprehensible software representation for design pattern detection." 2019 IEEE 26th international conference on software analysis, evolution and reengineering (SANER). IEEE, 2019.
+
