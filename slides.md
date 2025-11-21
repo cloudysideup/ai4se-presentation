@@ -24,7 +24,7 @@ mdc: true
 duration: 35min
 ---
 
-# Artificial Intelligence for Software Engineering
+# AI for Software Engineering
 ## A More Collaborative Toolset
 
 <div @click="$slidev.nav.next" class="mt-12 py-1" hover:bg="white op-10">
@@ -33,23 +33,27 @@ duration: 35min
 
 ---
 
-# Intro
+# Difficult Tasks In Uncertain Times
 
 - Creating business logic written in a programming language along with the
-  tests to verify that code and the process of how these items are written have proven to be a
-  more difficult task.
-- As AI models have become more specialised and geared towards code
-  creation, practitioners have embraced using it in limited purposes and researchers are
-  evaluating what role artificial intelligence will have in multiple software engineering domains
-  over the next several years.
+  tests to verify that code and the process of how these items are written
+
+- As large language models have become more specialised and geared towards code
+  creation, practitioners have embraced using it in limited purposes
+
+- researchers are evaluating what role artificial intelligence will have in multiple software engineering domains over the next several years.
 
 ---
 
 # Thesis Statement
 
-- Based on their research and how practitioners are currently using
-  it, artificial intelligence will be used by engineers, leads and managers for augmentation and
-  coaching within the domains and common processes of software engineering.
+- Artificial intelligence will be used by
+  - engineers
+  - architects
+  - technical leads
+  - managers
+
+- Augmentation and coaching within the domains and common processes
 
 ---
 layout: cover
@@ -76,11 +80,11 @@ layout: cover
 # How will AI help?
 
 - Parse Functional, Non-Functional and Domain Requirements
+  - Pezze, p10, 2.1.3
+
 - Recommend design decisions based on requirements
-- Sources
-  1. Pezze, p10, 2.1.3
-  2. Pezze ref 92
-  3. Stutz ref 20
+  - Khayashi, p7
+  - Arora, p8
 
 ---
 layout: cover
@@ -115,10 +119,6 @@ created,
   would augment and accelerate project management and 
   allow software development teams to think holistically about their projects
 
-- Sources
-  1. Lo ref 151
-  2. Lo ref 150?
-
 ---
 layout: cover
 image: https://cover.sli.dev
@@ -141,15 +141,15 @@ image: https://cover.sli.dev
 
 
 - validating the system design pattern artificial intelligence identifies in the requirements.
-- “deep learning techniques” identified by research...[focused] on...design pattern identification, user
-interface detection, traceability, validation” (M. Pezze et al, p10).
-- Once requirements are
-translated into blueprint of system and project design, code can be created.
+  - Pezze p10
 
-- Sources
-  1. Pezze p10, 2.1.3
-  2. Pezze ref 25 (models), 190
-  3. Lo ref 97
+- “deep learning techniques” identified by research...[focused] on...design pattern identification, user
+interface detection, traceability, validation” (M. Pezze et al, p10)
+
+- Once requirements are translated into blueprint of system and project design, code can be created.
+  - Burgueno
+  - Thaller
+  - Ahmad
 
 ---
 layout: cover
@@ -173,10 +173,8 @@ image: https://cover.sli.dev
 - Automatic programming 
 - Completion of code
 - Refactoring
-- Sources
-  1. Pezze p10 2.1.3
-  2. Pezze p15
-  3. Pezze p26
+  - Pezze p15,p26
+  - Liu, p12
 
 ---
 layout: cover
@@ -200,13 +198,12 @@ image: https://cover.sli.dev
   - unit tests
   - integration tests
   - e2e tests
-- vulnerability detection
-- draft test cases and test suites
 
-- Sources
-  1. Pezze p10-11 2.1.3
-  2. Lo ref 98?
-  3. Lo ref 111
+- vulnerability detection
+
+- draft test cases and test suites
+  - Pezze p10-11
+  - Roziere, p14
 
 ---
 layout: cover
@@ -219,20 +216,16 @@ image: https://cover.sli.dev
 # What are IT Operations?
 
 - Background
-  1. the management and maintenance of IT infrastructure
-  2. ensuring systems run reliably and securely after the software is built
+  - the management and maintenance of IT infrastructure
+  - ensuring systems run reliably and securely after the software is built
 
 ---
 
 # Pairing for Patching
 
 - Partner in maintenance of systems that support systems
-  1. security
-
-- Sources
-  1. Pezze p11 2.1.3
-  2. Pezze p31
-  3. Lo ref 101, 118-120
+  - Pezze p11, p31
+  - Lo ref 101, 118-120
 
 ---
 layout: cover
@@ -253,16 +246,12 @@ image: https://cover.sli.dev
 # Integration of Analysis into Process
 
 - Agentic AI invocation of tools
-- Sources
-  1. Pezze, p27
-  1. Lo ref 47,107-111,121
+  - Pezze, p27
+  - Roziere
 
 ---
-layout: cover
-image: https://cover.sli.dev
----
+
 # References
----
 
 Ahmad, Aakash, et al. "Towards human-bot collaborative software architecting with chatgpt." Proceedings of the 27th international conference on evaluation and assessment in software engineering. 2023.
 
@@ -273,19 +262,20 @@ Burgueño, Lola, et al. "Automation in Model-Driven Engineering: A look back, an
 Khayashi, Fatemeh, et al. "Deep learning methods for software requirement classification: A performance study on the pure dataset." arXiv preprint arXiv:2211.05286 (2022).
 
 ---
+
+# References (continued)
+
 Liu, Yue, et al. "Refining chatgpt-generated code: Characterizing and mitigating code quality issues." ACM Transactions on Software Engineering and Methodology 33.5 (2024): 1-26.
 
 Lo, David. "Trustworthy and Synergistic Artificial Intelligence for Software Engineering: Vision
 and Roadmaps. CoRR abs/2309.04142 (2023)." arXiv preprint arXiv:2309.04142 10 (2023).
 
-Niu, Changan, et al. "Crosscodebench: Benchmarking cross-task generalization of source code models." 2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE). IEEE, 2023.
-
-Peng, Yun, et al. "Generative type inference for python." 2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE). IEEE, 2023.
+Pezzè, Mauro, et al. "A 2030 Roadmap for Software Engineering." ACM Transactions on
+Software Engineering and Methodology 34.5 (2025): 1-55.
 
 ---
 
-Pezzè, Mauro, et al. "A 2030 Roadmap for Software Engineering." ACM Transactions on
-Software Engineering and Methodology 34.5 (2025): 1-55.
+# References (continued)
 
 Roziere, Baptiste, et al. "Leveraging automated unit tests for unsupervised code translation." arXiv preprint arXiv:2110.06773 (2021).
 
