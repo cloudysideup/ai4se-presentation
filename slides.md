@@ -33,7 +33,7 @@ duration: 35min
 
 ---
 layout: image-right
-image: ../images/devops.png
+image: /images/devops.png
 backgroundSize: 30em 50%
 ---
 
