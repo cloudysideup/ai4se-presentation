@@ -32,6 +32,10 @@ duration: 35min
 </div>
 
 ---
+layout: image-right
+image: ../images/devops.png
+backgroundSize: 30em 50%
+---
 
 # Difficult Tasks In Uncertain Times
 
@@ -44,7 +48,10 @@ duration: 35min
 - researchers are evaluating what role artificial intelligence will have in multiple software engineering domains over the next several years.
 
 ---
-
+layout: image-right
+image: ../images/serc-roadmap.png
+backgroundSize: 30em 50%
+---
 # Thesis Statement
 
 - Artificial intelligence will be used by
@@ -62,7 +69,10 @@ layout: cover
 # Gathering Software Requirements
 
 ---
-
+layout: image-right
+image: ../images/software-requirements-types.jpg
+backgroundSize: 30em 50%
+---
 # What Do We Require?
 
 - Functional Requirements
@@ -93,7 +103,10 @@ image: cover.sli.dev
 # Project Planning and oversight
 
 ---
-
+layout: image-right
+image: ../images/scrum.png
+backgroundSize: 30em 50%
+---
 # Understanding The Work
 
 - frameworks manage:
@@ -126,7 +139,10 @@ image: https://cover.sli.dev
 # Software Design and Architecture
 
 ---
-
+layout: image-right
+image: ../images/sayonetech-software-architecture-patterns.jpg
+backgroundSize: 30em 50%
+---
 # Organizing Code and Development
 
 - create functionality boundaries in your system
@@ -158,7 +174,10 @@ image: https://cover.sli.dev
 # Source Code Generation (Programming)
 
 ---
-
+layout: image-right
+image: ../images/Lone-programmer-workflow.png
+backgroundSize: 30em 50%
+---
 # What does Programming look like?
 
 - writing instructions that a computer can understand and execute
