@@ -117,7 +117,10 @@ backgroundSize: 30em 50%
   - delivery
 
 ---
-
+layout: image-right
+image: /ai4se-presentation/docs/assets/images/devops.png
+backgroundSize: 30em 50%
+---
 # How will AI help?
 
 - create the content for
@@ -152,7 +155,10 @@ backgroundSize: 30em 50%
   - integrations
 
 ---
-
+layout: image-right
+image: /ai4se-presentation/docs/assets/images/devops.png
+backgroundSize: 30em 50%
+---
 # What will Software design and Architecture look like?
 
 
@@ -184,7 +190,10 @@ backgroundSize: 30em 50%
 - software developer as creator
 
 ---
-
+layout: image-right
+image: /ai4se-presentation/docs/assets/images/devops.png
+backgroundSize: 30em 50%
+---
 # Software Developer as Curator
 
 - Increasing impact of work
@@ -202,7 +211,10 @@ image: https://cover.sli.dev
 # Software Testing
 
 ---
-
+layout: image-right
+image: /ai4se-presentation/docs/assets/images/devops.png
+backgroundSize: 30em 50%
+---
 # How do we test now?
 
 1. ensure software functions correctly
@@ -210,7 +222,10 @@ image: https://cover.sli.dev
 2. finding and documenting bugs and other issues before the product is released
 
 ---
-
+layout: image-right
+image: /ai4se-presentation/docs/assets/images/devops.png
+backgroundSize: 30em 50%
+---
 # What can AI do for Testing?
 
 - draft the test code while drafting the system code 
@@ -231,7 +246,10 @@ image: https://cover.sli.dev
 # IT Operations
 
 ---
-
+layout: image-right
+image: /ai4se-presentation/docs/assets/images/devops.png
+backgroundSize: 30em 50%
+---
 # What are IT Operations?
 
 - Background
@@ -239,7 +257,10 @@ image: https://cover.sli.dev
   - ensuring systems run reliably and securely after the software is built
 
 ---
-
+layout: image-right
+image: /ai4se-presentation/docs/assets/images/devops.png
+backgroundSize: 30em 50%
+---
 # Pairing for Patching
 
 - Partner in maintenance of systems that support systems
@@ -253,7 +274,10 @@ image: https://cover.sli.dev
 # Program Analysis
 
 ---
-
+layout: image-right
+image: /ai4se-presentation/docs/assets/images/devops.png
+backgroundSize: 30em 50%
+---
 # What is Program Analysis?
 
 - Static Code Analysis
@@ -261,7 +285,10 @@ image: https://cover.sli.dev
 - Dynamic Application Security Testing
 
 ---
-
+layout: image-right
+image: /ai4se-presentation/docs/assets/images/devops.png
+backgroundSize: 30em 50%
+---
 # Integration of Analysis into Process
 
 - Agentic AI invocation of tools
