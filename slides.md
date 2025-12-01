@@ -162,11 +162,11 @@ backgroundSize: 30em 50%
 # What Will Design and Architecture Look Like?
 
 - AI translates requirements into blueprints of system and project design
-  - Burgueno
-  - Thaller
-  - Ahmad
+  - "hybrid AI systems that excel in tasks requiring [logic] reasoning and pattern recognition" (Burgueno et al, p10)
+  - "Feature Maps (FMs)...computed via Feature-Role normalization (FRN) and used for design pattern detection" (Thaller, p8)
+  - "[Architecturally Significant Requirements]...refined via human-bot dialog...synthesized into an architectural specification" (Ahmad, p282)
 
-- Architects and project managers validate the design patterns
+- Architects and project managers validate the design patterns/specifications
 
 
 ---
@@ -187,18 +187,18 @@ backgroundSize: 30em 50%
 
 ---
 layout: image-right
-image: /devops.png
+image: /curators-at-the-national-gallery.jpg
 backgroundSize: 30em 50%
 ---
 # Software Developer as Curator
 
 - Increasing impact of work
-- collaborator/pair programming
-- Automatic programming 
-- Completion of code
-- Refactoring
-  - Pezze p15,p26
-  - Liu, p12
+  - collaborator/pair programming or automatic programming with validation
+  - "" (Liu, p23)
+  - "" (Pezze, p15,26)
+
+- Collaboration in repairing code
+  - "" (Liu, p20)
 
 ---
 layout: cover
