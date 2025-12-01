@@ -33,7 +33,7 @@ duration: 35min
 
 ---
 layout: image-right
-image: /ai4se-presentation/docs/assets/images/devops.png
+image: /devops.png
 backgroundSize: 30em 50%
 ---
 
