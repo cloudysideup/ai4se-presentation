@@ -64,6 +64,7 @@ backgroundSize: 30em 50%
 
 ---
 layout: cover
+background: https://cover.sli.dev
 ---
 
 # Gathering Software Requirements
@@ -90,15 +91,15 @@ backgroundSize: 30em 50%
 # How will AI help?
 
 - Parse Functional, Non-Functional and Domain Requirements
-  - Pezze, p10, 2.1.3
+  - "focus on specific tasks such as design pattern identification,...requirement classification, extraction, traceability, validation, generation and completeness enhancement" (M. Pezze et al, p10)
 
 - Recommend design decisions based on requirements
-  - Khayashi, p7
-  - Arora, p8
+  - "method based on [AI] models was presented to classify software requirements automatically...results showed they can successfully classify the requirements" (Khayashi, pp7-8)
+  - "suggest requirements prioritization by analyzing technical dependencies, project goals, and historical data...have domain experts validate the results" (Arora, p8)
 
 ---
 layout: cover
-image: cover.sli.dev
+background: https://cover.sli.dev
 ---
 # Project Planning and oversight
 
@@ -137,7 +138,7 @@ created,
 
 ---
 layout: cover
-image: https://cover.sli.dev
+background: https://cover.sli.dev
 ---
 # Software Design and Architecture
 
@@ -175,7 +176,7 @@ interface detection, traceability, validation” (M. Pezze et al, p10)
 
 ---
 layout: cover
-image: https://cover.sli.dev
+background: https://cover.sli.dev
 ---
 # Source Code Generation (Programming)
 
@@ -206,7 +207,7 @@ backgroundSize: 30em 50%
 
 ---
 layout: cover
-image: https://cover.sli.dev
+background: https://cover.sli.dev
 ---
 # Software Testing
 
@@ -241,7 +242,7 @@ backgroundSize: 30em 50%
 
 ---
 layout: cover
-image: https://cover.sli.dev
+background: https://cover.sli.dev
 ---
 # IT Operations
 
@@ -269,7 +270,7 @@ backgroundSize: 30em 50%
 
 ---
 layout: cover
-image: https://cover.sli.dev
+background: https://cover.sli.dev
 ---
 # Program Analysis
 
