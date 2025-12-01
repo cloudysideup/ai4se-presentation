@@ -49,7 +49,7 @@ backgroundSize: 30em 50%
 
 ---
 layout: image-right
-image: ../images/serc-roadmap.png
+image: /serc-roadmap.png
 backgroundSize: 30em 50%
 ---
 # Thesis Statement
@@ -70,7 +70,7 @@ layout: cover
 
 ---
 layout: image-right
-image: ../images/software-requirements-types.jpg
+image: /software-requirements-types.jpg
 backgroundSize: 30em 50%
 ---
 # What Do We Require?
@@ -104,7 +104,7 @@ image: cover.sli.dev
 
 ---
 layout: image-right
-image: ../images/scrum.png
+image: /scrum.png
 backgroundSize: 30em 50%
 ---
 # Understanding The Work
@@ -118,7 +118,7 @@ backgroundSize: 30em 50%
 
 ---
 layout: image-right
-image: /ai4se-presentation/docs/assets/images/devops.png
+image: /devops.png
 backgroundSize: 30em 50%
 ---
 # How will AI help?
@@ -143,7 +143,7 @@ image: https://cover.sli.dev
 
 ---
 layout: image-right
-image: ../images/sayonetech-software-architecture-patterns.jpg
+image: /sayonetech-software-architecture-patterns.jpg
 backgroundSize: 30em 50%
 ---
 # Organizing Code and Development
@@ -156,7 +156,7 @@ backgroundSize: 30em 50%
 
 ---
 layout: image-right
-image: /ai4se-presentation/docs/assets/images/devops.png
+image: /devops.png
 backgroundSize: 30em 50%
 ---
 # What will Software design and Architecture look like?
@@ -181,7 +181,7 @@ image: https://cover.sli.dev
 
 ---
 layout: image-right
-image: ../images/Lone-programmer-workflow.png
+image: /Lone-programmer-workflow.png
 backgroundSize: 30em 50%
 ---
 # What does Programming look like?
@@ -191,7 +191,7 @@ backgroundSize: 30em 50%
 
 ---
 layout: image-right
-image: /ai4se-presentation/docs/assets/images/devops.png
+image: /devops.png
 backgroundSize: 30em 50%
 ---
 # Software Developer as Curator
@@ -212,7 +212,7 @@ image: https://cover.sli.dev
 
 ---
 layout: image-right
-image: /ai4se-presentation/docs/assets/images/devops.png
+image: /devops.png
 backgroundSize: 30em 50%
 ---
 # How do we test now?
@@ -223,7 +223,7 @@ backgroundSize: 30em 50%
 
 ---
 layout: image-right
-image: /ai4se-presentation/docs/assets/images/devops.png
+image: /devops.png
 backgroundSize: 30em 50%
 ---
 # What can AI do for Testing?
@@ -247,7 +247,7 @@ image: https://cover.sli.dev
 
 ---
 layout: image-right
-image: /ai4se-presentation/docs/assets/images/devops.png
+image: /devops.png
 backgroundSize: 30em 50%
 ---
 # What are IT Operations?
@@ -258,7 +258,7 @@ backgroundSize: 30em 50%
 
 ---
 layout: image-right
-image: /ai4se-presentation/docs/assets/images/devops.png
+image: /devops.png
 backgroundSize: 30em 50%
 ---
 # Pairing for Patching
@@ -275,7 +275,7 @@ image: https://cover.sli.dev
 
 ---
 layout: image-right
-image: /ai4se-presentation/docs/assets/images/devops.png
+image: /devops.png
 backgroundSize: 30em 50%
 ---
 # What is Program Analysis?
@@ -286,7 +286,7 @@ backgroundSize: 30em 50%
 
 ---
 layout: image-right
-image: /ai4se-presentation/docs/assets/images/devops.png
+image: /devops.png
 backgroundSize: 30em 50%
 ---
 # Integration of Analysis into Process
