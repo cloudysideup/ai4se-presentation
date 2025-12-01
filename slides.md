@@ -119,7 +119,7 @@ backgroundSize: 30em 50%
 
 ---
 layout: image-right
-image: /devops.png
+image: /School-Robot-GIF-by-BrainPOP.gif
 backgroundSize: 30em 50%
 ---
 # How will AI help?
@@ -127,14 +127,13 @@ backgroundSize: 30em 50%
 - create the content for
   - ideation
   - stories for developer work
-  - testing. 
-  - “AI4SE solutions can transfer information and insights from one micro-task to
-others” (Lo, p11). 
-  - insights integrated to create a roadmap for a project. 
-  While project managers and technical leads would need to verify what is
-created, 
-  would augment and accelerate project management and 
-  allow software development teams to think holistically about their projects
+  - testing
+
+- “AI4SE solutions can transfer information and insights from one micro-task to
+others” (Lo, p11) 
+  - create a project roadmap with verification by project managers and technical leads
+  - accelerate project management
+  - allow software development teams to think holistically about projects
 
 ---
 layout: cover
@@ -157,22 +156,18 @@ backgroundSize: 30em 50%
 
 ---
 layout: image-right
-image: /devops.png
+image: /Sketch-Ux-GIF-by-Perrine-Land.gif
 backgroundSize: 30em 50%
 ---
-# What will Software design and Architecture look like?
+# What Will Design and Architecture Look Like?
 
-
-- validating the system design pattern artificial intelligence identifies in the requirements.
-  - Pezze p10
-
-- “deep learning techniques” identified by research...[focused] on...design pattern identification, user
-interface detection, traceability, validation” (M. Pezze et al, p10)
-
-- Once requirements are translated into blueprint of system and project design, code can be created.
+- AI translates requirements into blueprints of system and project design
   - Burgueno
   - Thaller
   - Ahmad
+
+- Architects and project managers validate the design patterns
+
 
 ---
 layout: cover
