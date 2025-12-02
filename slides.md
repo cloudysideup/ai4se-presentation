@@ -20,6 +20,9 @@ drawings:
 transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
+addons:
+- slidev-addon-citations
+
 # duration of the presentation
 duration: 35min
 ---
@@ -45,20 +48,20 @@ backgroundSize: 30em 50%
 - As large language models have become more specialised and geared towards code
   creation, practitioners have embraced using it in limited purposes
 
-- researchers are evaluating what role artificial intelligence will have in multiple software engineering domains over the next several years.
+- Researchers are evaluating what role artificial intelligence will have in multiple software engineering domains over the next several years.
 
 ---
 layout: image-right
 image: /serc-roadmap.png
 backgroundSize: 30em 50%
 ---
-# Thesis Statement
+# What Will Software Engineering Look Like
 
 - Artificial intelligence will be used by
-  - engineers
-  - architects
-  - technical leads
-  - managers
+  - Engineers
+  - Architects
+  - Technical leads
+  - Managers
 
 - Augmentation and coaching within the domains and common processes
 
@@ -84,7 +87,7 @@ backgroundSize: 30em 50%
 
 - Domain Requirements
   - Rules or standards
-  - specific to domain or industry the software operates in
+  - Specific to domain or industry the software operates in
 
 ---
 
@@ -110,30 +113,30 @@ backgroundSize: 30em 50%
 ---
 # Understanding The Work
 
-- frameworks manage:
-  - ideation
-  - development
-  - testing
-  - security
-  - delivery
+- Frameworks manage:
+  - Ideation
+  - Development
+  - Testing
+  - Security
+  - Delivery
 
 ---
 layout: image-right
 image: /School-Robot-GIF-by-BrainPOP.gif
 backgroundSize: 30em 50%
 ---
-# How will AI help?
+# How Will AI Help?
 
-- create the content for
-  - ideation
-  - stories for developer work
-  - testing
+- Create the content for
+  - Ideation
+  - Stories for developer work
+  - Testing
 
 - “AI4SE solutions can transfer information and insights from one micro-task to
 others” (Lo, p11) 
-  - create a project roadmap with verification by project managers and technical leads
-  - accelerate project management
-  - allow software development teams to think holistically about projects
+  - Create a project roadmap with verification by project managers and technical leads
+  - Accelerate project management
+  - Allow software development teams to think holistically about projects
 
 ---
 layout: cover
@@ -148,11 +151,11 @@ backgroundSize: 30em 50%
 ---
 # Organizing Code and Development
 
-- create functionality boundaries in your system
-- requirements gathered translated into
-  - system structure
-  - components
-  - integrations
+- Create functionality boundaries in your system
+- Requirements gathered translated into
+  - System structure
+  - Components
+  - Integrations
 
 ---
 layout: image-right
@@ -180,17 +183,17 @@ layout: image-right
 image: /Lone-programmer-workflow.png
 backgroundSize: 30em 50%
 ---
-# What does Programming look like?
+# What Does Programming Look Like?
 
-- writing instructions that a computer can understand and execute
-- software developer as creator
+- Writing instructions that a computer can understand and execute
+- Software developer as creator
 
 ---
 layout: image-right
 image: /curators-at-the-national-gallery.jpg
 backgroundSize: 30em 50%
 ---
-# Software Developer as Creator and Curator
+# Software Developer As Creator and Curator
 
 - Increasing impact of work
   - collaborator/pair programming or automatic programming with validation
@@ -210,25 +213,25 @@ layout: image-right
 image: /software-testing.jpg
 backgroundSize: 30em 50%
 ---
-# How do we test now?
+# How Do We Test Now?
 
-- ensure software functions correctly
-  - write the code then write the test code
-- finding and documenting bugs and other issues before the product is released
+- Ensure software functions correctly
+  - Write the code then write the test code
+- Finding and documenting bugs and other issues before the product is released
 
 ---
 layout: image-right
 image: /time-writes-GIF.gif
 backgroundSize: 30em 50%
 ---
-# What can AI do for Testing?
+# What Can AI Do For Testing?
 
-- draft the test code while drafting the system code 
-  - unit tests (Roziere et al)
-  - integration tests (of system components)
-  - end-to-end (e2e) tests
+- Draft the test code while drafting the system code 
+  - Unit tests (Roziere et al)
+  - Integration tests (of system components)
+  - End-to-end (e2e) tests
 
-- draft test cases and test suites
+- Draft test cases and test suites
   - "use of large language models to generate test cases, showing promising results" (Pezze et al p10)
 
 ---
@@ -242,10 +245,10 @@ layout: image-right
 image: /ITOM-Processes_480x480.webp
 backgroundSize: 30em 50%
 ---
-# What are IT Operations?
+# What Are IT Operations?
 
-- the management and maintenance of IT infrastructure
-- ensuring systems run reliably and securely after the software is built
+- The management and maintenance of IT infrastructure
+- Ensuring systems run reliably and securely after the software is built
 
 ---
 layout: image-right
