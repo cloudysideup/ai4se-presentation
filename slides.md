@@ -104,7 +104,7 @@ backgroundSize: 30em 50%
 layout: cover
 background: https://cover.sli.dev
 ---
-# Project Planning and oversight
+# Project Planning and Oversight
 
 ---
 layout: image-right
