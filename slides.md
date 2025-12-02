@@ -190,15 +190,14 @@ layout: image-right
 image: /curators-at-the-national-gallery.jpg
 backgroundSize: 30em 50%
 ---
-# Software Developer as Curator
+# Software Developer as Creator and Curator
 
 - Increasing impact of work
   - collaborator/pair programming or automatic programming with validation
-  - "" (Liu, p23)
-  - "" (Pezze, p15,26)
+  - "trustworthy integration of automatically generated code" (Pezze et al, p26)
 
 - Collaboration in repairing code
-  - "" (Liu, p20)
+  - "effective, particularly when guided by detailed feedback" (Liu et al, p20)
 
 ---
 layout: cover
@@ -208,32 +207,29 @@ background: https://cover.sli.dev
 
 ---
 layout: image-right
-image: /devops.png
+image: /software-testing.jpg
 backgroundSize: 30em 50%
 ---
 # How do we test now?
 
-1. ensure software functions correctly
+- ensure software functions correctly
   - write the code then write the test code
-2. finding and documenting bugs and other issues before the product is released
+- finding and documenting bugs and other issues before the product is released
 
 ---
 layout: image-right
-image: /devops.png
+image: /time-writes-GIF.gif
 backgroundSize: 30em 50%
 ---
 # What can AI do for Testing?
 
 - draft the test code while drafting the system code 
-  - unit tests
-  - integration tests
-  - e2e tests
-
-- vulnerability detection
+  - unit tests (Roziere et al)
+  - integration tests (of system components)
+  - end-to-end (e2e) tests
 
 - draft test cases and test suites
-  - Pezze p10-11
-  - Roziere, p14
+  - "use of large language models to generate test cases, showing promising results" (Pezze et al p10)
 
 ---
 layout: cover
@@ -243,14 +239,13 @@ background: https://cover.sli.dev
 
 ---
 layout: image-right
-image: /devops.png
+image: /ITOM-Processes_480x480.webp
 backgroundSize: 30em 50%
 ---
 # What are IT Operations?
 
-- Background
-  - the management and maintenance of IT infrastructure
-  - ensuring systems run reliably and securely after the software is built
+- the management and maintenance of IT infrastructure
+- ensuring systems run reliably and securely after the software is built
 
 ---
 layout: image-right
@@ -261,7 +256,6 @@ backgroundSize: 30em 50%
 
 - Partner in maintenance of systems that support systems
   - Pezze p11, p31
-  - Lo ref 101, 118-120
 
 ---
 layout: cover
