@@ -249,13 +249,15 @@ backgroundSize: 30em 50%
 
 ---
 layout: image-right
-image: /devops.png
+image: /highlight-ferrari-GIF.gif
 backgroundSize: 30em 50%
 ---
 # Pairing for Patching
 
-- Partner in maintenance of systems that support systems
-  - Pezze p11, p31
+- "Artifical intelligence powered tools to protect software ecosystems in production under human control" (Pezze et al, p31)
+  - Vulnerability detection
+  - Fix Localization & Patching
+  - Patch Ranking
 
 ---
 layout: cover
@@ -265,7 +267,7 @@ background: https://cover.sli.dev
 
 ---
 layout: image-right
-image: /devops.png
+image: /tn-images-7-1057734412.png
 backgroundSize: 30em 50%
 ---
 # What is Program Analysis?
@@ -276,14 +278,13 @@ backgroundSize: 30em 50%
 
 ---
 layout: image-right
-image: /devops.png
+image: /Infographic-CT360-Secure-Code-process.jpg
 backgroundSize: 30em 50%
 ---
-# Integration of Analysis into Process
+# Integration of Analysis Into Process
 
-- Agentic AI invocation of tools
-  - Pezze, p27
-  - Roziere
+- Agentic AI using tools
+  - "large language models can invoke...program analysis tools, to autonomously complete programming tasks" (Pezze et al, p27)
 
 ---
 
