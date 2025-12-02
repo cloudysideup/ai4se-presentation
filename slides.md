@@ -94,11 +94,11 @@ backgroundSize: 30em 50%
 # How will AI help?
 
 - Parse Functional, Non-Functional and Domain Requirements
-  - "focus on specific tasks such as design pattern identification,...requirement classification, extraction, traceability, validation, generation and completeness enhancement" (M. Pezze et al, p10)
+  - "focus on specific tasks such as design pattern identification,...requirement classification, extraction, traceability, validation, generation and completeness enhancement" (M. Pezze et al p10)
 
 - Recommend design decisions based on requirements
-  - "method based on [AI] models was presented to classify software requirements automatically...results showed they can successfully classify the requirements" (Khayashi, pp7-8)
-  - "suggest requirements prioritization by analyzing technical dependencies, project goals, and historical data...have domain experts validate the results" (Arora, p8)
+  - "method based on [AI] models was presented to classify software requirements automatically...results showed they can successfully classify the requirements" (Khayashi pp7-8)
+  - "suggest requirements prioritization by analyzing technical dependencies, project goals, and historical data...have domain experts validate the results" (Arora p8)
 
 ---
 layout: cover
@@ -133,7 +133,7 @@ backgroundSize: 30em 50%
   - Testing
 
 - “AI4SE solutions can transfer information and insights from one micro-task to
-others” (Lo, p11) 
+others” (Lo p11) 
   - Create a project roadmap with verification by project managers and technical leads
   - Accelerate project management
   - Allow software development teams to think holistically about projects
@@ -165,9 +165,9 @@ backgroundSize: 30em 50%
 # What Will Design and Architecture Look Like?
 
 - AI translates requirements into blueprints of system and project design
-  - "hybrid AI systems that excel in tasks requiring [logic] reasoning and pattern recognition" (Burgueno et al, p10)
-  - "Feature Maps (FMs)...computed via Feature-Role normalization (FRN) and used for design pattern detection" (Thaller, p8)
-  - "[Architecturally Significant Requirements]...refined via human-bot dialog...synthesized into an architectural specification" (Ahmad, p282)
+  - "hybrid AI systems that excel in tasks requiring [logic] reasoning and pattern recognition" (Burgueno et al p10)
+  - "Feature Maps (FMs)...computed via Feature-Role normalization (FRN) and used for design pattern detection" (Thaller p8)
+  - "[Architecturally Significant Requirements]...refined via human-bot dialog...synthesized into an architectural specification" (Ahmad p282)
 
 - Architects and project managers validate the design patterns/specifications
 
@@ -197,10 +197,10 @@ backgroundSize: 30em 50%
 
 - Increasing impact of work
   - collaborator/pair programming or automatic programming with validation
-  - "trustworthy integration of automatically generated code" (Pezze et al, p26)
+  - "trustworthy integration of automatically generated code" (Pezze et al p26)
 
 - Collaboration in repairing code
-  - "effective, particularly when guided by detailed feedback" (Liu et al, p20)
+  - "effective, particularly when guided by detailed feedback" (Liu et al p20)
 
 ---
 layout: cover
@@ -257,7 +257,7 @@ backgroundSize: 30em 50%
 ---
 # Pairing for Patching
 
-- "Artifical intelligence powered tools to protect software ecosystems in production under human control" (Pezze et al, p31)
+- "Artifical intelligence powered tools to protect software ecosystems in production under human control" (Pezze et al p31)
   - Vulnerability detection
   - Fix Localization & Patching
   - Patch Ranking
@@ -287,41 +287,57 @@ backgroundSize: 30em 50%
 # Integration of Analysis Into Process
 
 - Agentic AI using tools
-  - "large language models can invoke...program analysis tools, to autonomously complete programming tasks" (Pezze et al, p27)
+  - "large language models can invoke...program analysis tools, to autonomously complete programming tasks" (Pezze et al p27)
 
 ---
 
 # References
 
-Ahmad, Aakash, et al. "Towards human-bot collaborative software architecting with chatgpt." Proceedings of the 27th international conference on evaluation and assessment in software engineering. 2023.
+Ahmad, Aakash, et al. "Towards human-bot collaborative software architecting<br>
+&nbsp;&nbsp;&nbsp;&nbsp;with chatgpt." Proceedings of the 27th international conference on<br>
+&nbsp;&nbsp;&nbsp;&nbsp;evaluation and assessment in software engineering. 2023.
 
-Arora, Chetan, John Grundy, and Mohamed Abdelrazek. "Advancing requirements engineering through generative ai: Assessing the role of llms." Generative AI for Effective Software Development. Cham: Springer Nature Switzerland, 2024. 129-148.
+Arora, Chetan, John Grundy, and Mohamed Abdelrazek. "Advancing requirements<br>
+&nbsp;&nbsp;&nbsp;&nbsp;engineering through generative ai: Assessing the role of llms." Generative<br>
+&nbsp;&nbsp;&nbsp;&nbsp;AI for Effective Software Development. Cham: Springer Nature Switzerland,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2024 129-148.
 
-Burgueño, Lola, et al. "Automation in Model-Driven Engineering: A look back, and ahead." ACM Transactions on Software Engineering and Methodology 34.5 (2025): 1-25.
+Burgueño, Lola, et al. "Automation in Model-Driven Engineering: A look back,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;and ahead." ACM Transactions on Software Engineering and Methodology<br>
+&nbsp;&nbsp;&nbsp;&nbsp;34.5 (2025): 1-25.
 
-Khayashi, Fatemeh, et al. "Deep learning methods for software requirement classification: A performance study on the pure dataset." arXiv preprint arXiv:2211.05286 (2022).
-
----
-
-# References (continued)
-
-Liu, Yue, et al. "Refining chatgpt-generated code: Characterizing and mitigating code quality issues." ACM Transactions on Software Engineering and Methodology 33.5 (2024): 1-26.
-
-Lo, David. "Trustworthy and Synergistic Artificial Intelligence for Software Engineering: Vision
-and Roadmaps. CoRR abs/2309.04142 (2023)." arXiv preprint arXiv:2309.04142 10 (2023).
-
-Pezzè, Mauro, et al. "A 2030 Roadmap for Software Engineering." ACM Transactions on
-Software Engineering and Methodology 34.5 (2025): 1-55.
+Khayashi, Fatemeh, et al. "Deep learning methods for software requirement<br>
+&nbsp;&nbsp;&nbsp;&nbsp;classification: A performance study on the pure dataset." arXiv preprint<br>
+&nbsp;&nbsp;&nbsp;&nbsp;arXiv:2211.05286 (2022).
 
 ---
 
 # References (continued)
 
-Roziere, Baptiste, et al. "Leveraging automated unit tests for unsupervised code translation." arXiv preprint arXiv:2110.06773 (2021).
+Liu, Yue, et al. "Refining chatgpt-generated code: Characterizing and mitigating<br>
+&nbsp;&nbsp;&nbsp;&nbsp;code quality issues." ACM Transactions on Software Engineering and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Methodology 33.5 (2024): 1-26.
 
-Stutz, Kevin, Kurt Sandkuhl, and Michael Möhring. "Empirical Insights into the Usage of
-Generative AI in Software Engineering." International Conference on Business Informatics
-Research. Cham: Springer Nature Switzerland, 2025.
+Lo, David. "Trustworthy and Synergistic Artificial Intelligence for Software<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Engineering: Vision and Roadmaps. CoRR abs/2309.04142 (2023)." arXiv<br>
+&nbsp;&nbsp;&nbsp;&nbsp;preprint arXiv:2309.04142 10 (2023).
 
-Thaller, Hannes, Lukas Linsbauer, and Alexander Egyed. "Feature maps: A comprehensible software representation for design pattern detection." 2019 IEEE 26th international conference on software analysis, evolution and reengineering (SANER). IEEE, 2019.
+Pezzè, Mauro, et al. "A 2030 Roadmap for Software Engineering." ACM Transactions<br>
+&nbsp;&nbsp;&nbsp;&nbsp;on Software Engineering and Methodology 34.5 (2025): 1-55.
+
+---
+
+# References (continued)
+
+Roziere, Baptiste, et al. "Leveraging automated unit tests for unsupervised code<br>
+&nbsp;&nbsp;&nbsp;&nbsp;translation." arXiv preprint arXiv:2110.06773 (2021).
+
+Stutz, Kevin, Kurt Sandkuhl, and Michael Möhring. "Empirical Insights into the<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Usage of Generative AI in Software Engineering." International Conference on<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Business Informatics Research. Cham: Springer Nature Switzerland, 2025.
+
+Thaller, Hannes, Lukas Linsbauer, and Alexander Egyed. "Feature maps: A comprehensible<br>
+&nbsp;&nbsp;&nbsp;&nbsp;software representation for design pattern detection." 2019 IEEE 26th<br>
+&nbsp;&nbsp;&nbsp;&nbsp;international conference on software analysis, evolution and reengineering<br>
+&nbsp;&nbsp;&nbsp;&nbsp;(SANER). IEEE, 2019.
 
